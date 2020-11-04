@@ -2,8 +2,33 @@ body{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-#container{
-    width:  70%;
-    padding: 1rem;
+#post{
+    width:  100%;
     border: 1px solid #000;
+}
+header{
+    text-align: left;
+    color: blueviolet;
+    background: #cecece;
+    font-size: 1.5rem;
+    padding: 1rem;
+    box-shadow: 5px 5px 5px 0px #bca7a7;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header:hover{
+    color: #ffffff;
+    font-size: 1.6rem;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.flex{
+    display: flex
+}
+
+.justify-between{
+    justify-content: space-between;
+    align-items: center;
 }
