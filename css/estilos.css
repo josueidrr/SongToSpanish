@@ -7,3 +7,8 @@ body{
     padding: 1rem;
     border: 1px solid #000;
 }
+#explicar{
+    border:1px dashed rgb(155, 200, 85);
+    border-radius: 6%;
+    padding: 1rem;
+}
