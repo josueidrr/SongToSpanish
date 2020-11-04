@@ -21,7 +21,7 @@ header{
     font-family: Arial;
 }
 header:hover{
-    color: #ffffff;
+    color: red;
     font-size: 1.6rem;
 }
 
